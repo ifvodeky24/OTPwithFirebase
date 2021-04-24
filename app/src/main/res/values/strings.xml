@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OTPwithFirebase</string>
+    <string name="we_will_send_you_an_code_on_this_mobile_phone_number">We will send you an code on this mobile phone number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_mobile_phone_number">Enter Mobile Phone Number</string>
+    <string name="_62">+62-</string>
+    <string name="send">Send</string>
+    <string name="enter_the_otp_send">Enter the OTP send</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP?</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="verify">Verify</string>
+    <string name="i_m_login_as">I\'m login as</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
